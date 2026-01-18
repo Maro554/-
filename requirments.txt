@@ -1,5 +1,0 @@
-flask
-flask-SQLAlchemy
-flask-WTF
-flask-login
-gunicorn
